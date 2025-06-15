@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!! I`m Geodithra👋
 
 <!--
 **Gxcod3/Gxcod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Golang**](https://go-dev.translate.goog/doc/articles/wiki/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc) and [**Python**](https://www.python.org/) 😁
+
+![hacker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c3djF1c3JlOWljOGJkaTlkbjdldTFycDc5Yml1cnF5YWZmNTFqZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif)
+
+
+
