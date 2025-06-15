@@ -1,6 +1,6 @@
 ## Hi there!! I`m Geodithra👋
 
-<img src="IMG/github-header-image.png" alt="IMG AWAL" style="max-width: 100px; width: 100%;" />
+<img src="IMG/github-header-image.png" alt="IMG AWAL" style="max-width: 100px; width: 95%;" />
 
 <!--
 **Gxcod3/Gxcod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
