@@ -1,5 +1,3 @@
-<img src="IMG/github-header-image.png" alt="IMG AWAL" style="max-width: 100px; width: 80%;" />
-
 <!--
 **Gxcod3/Gxcod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
