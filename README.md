@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,go,cpp,r,ubuntu,arduino&perline=)](https://skillicons.dev)
 
-
 ![hacker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c3djF1c3JlOWljOGJkaTlkbjdldTFycDc5Yml1cnF5YWZmNTFqZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif)
 
 ### My Github Stats
@@ -32,7 +31,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Gxcod3/Gxcod3/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
